@@ -1,0 +1,46 @@
+body {
+    background-color: #E3E3E3; /* */
+    font-family: 'Bahnschrift', sans-serif; /* */
+    margin: 40px;
+    color: #333;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Callisto MT', serif; /* */
+    color: #007baf;
+    font-size: 36px;
+}
+
+nav {
+    background-color: #007baf; /* */
+    color: white;
+    padding: 10px;
+    font-family: 'Bahnschrift', sans-serif;
+    margin-bottom: 30px;
+}
+
+h2, h3 {
+    font-family: 'Callisto MT', serif; /* */
+    color: #007baf;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+
+ul {
+    margin: 20px 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
